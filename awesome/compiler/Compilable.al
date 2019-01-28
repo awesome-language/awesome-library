@@ -1,3 +1,3 @@
 [
-    compile: ''
+    compile: object.String
 ]
