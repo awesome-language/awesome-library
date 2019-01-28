@@ -1,4 +1,4 @@
 Path
 (
-    location: '/'
+    location: String.of.'/'
 )
