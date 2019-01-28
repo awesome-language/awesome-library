@@ -14,4 +14,4 @@ Have a look [here](https://gitlab.com/lebel.louisjacob/awesome/wikis/Library) to
 
 ## Documentation
 
-Have a look at the [documentation](https://gitlab.com/lebel.louisjacob/awesome/wikis/Home) for awesome information about the Awesome language.
+Have a look at the [documentation](https://gitlab.com/lebel.louisjacob/awesome/wikis/Home) for more information about the Awesome language.
