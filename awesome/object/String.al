@@ -1,6 +1,7 @@
 Any
 [
     content: ''
+
     +: Function(in: String)
     (
         out: content :: in.content
