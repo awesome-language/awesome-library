@@ -1,4 +1,2 @@
-[
-    in: Any
-    out: Any
-]
+Consumer
+Supplier
