@@ -2,3 +2,6 @@ Compilable
 [
     location: ''
 ]
+(
+    compile: location
+)
