@@ -1,8 +1,4 @@
 Function
 (
-    in:
-    [
-        left: Any
-        right: Any
-    ]
+    in: Tuple
 )
