@@ -1,0 +1,4 @@
+Compilable
+[
+    location: ''
+]
