@@ -1,4 +1,0 @@
-Compilable
-[
-    path: Path
-]
