@@ -4,7 +4,7 @@ Awesome is a string manipulation language.
 
 Any language is represented using strings.
 
-Awesome can then manipulate any language.
+Therefore, Awesome can manipulate any language.
 
 ## Contribution
 
