@@ -1,6 +1,6 @@
 Compilable
 [
-    location: ''
+    location: object.String
 ]
 (
     compile: location
