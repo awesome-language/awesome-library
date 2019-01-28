@@ -3,5 +3,5 @@ Path
     parent: Path
 ]
 (
-    compile: parent.compile :: location
+    compile: parent.compile.+(other: location)
 )
