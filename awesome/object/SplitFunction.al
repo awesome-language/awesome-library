@@ -1,4 +1,0 @@
-Function
-(
-    out: Tuple
-)

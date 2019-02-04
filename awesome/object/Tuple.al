@@ -1,4 +1,0 @@
-[
-    left: Any
-    right: Any
-]
