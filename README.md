@@ -1,3 +1,5 @@
+<img src="http://img.shields.io/liberapay/patrons/Abstrack.svg?logo=liberapay">
+
 # The Awesome Language
 
 Awesome is a string manipulation language.
