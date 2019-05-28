@@ -1,3 +1,3 @@
 # Exo Standard Library
 
-Have a look at the [documentation](https://gitlab.com/awesome-language/awesome-library/wikis/Home) for more information about the Exo language.
+Have a look at the [documentation](https://gitlab.com/exo-language/exo-standard/wikis/Home) for more information about the Exo language.
